@@ -1,0 +1,13 @@
+name = "GemRender"
+filename = "gemrender-0.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e6895428a80685386b4254b657823680c12a382"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9110928
+project-id = 1735539

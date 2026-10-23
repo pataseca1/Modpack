@@ -1,0 +1,13 @@
+name = "SaltyFish  Vehicle  [Immersive Vehicles content pack]"
+filename = "SaltyFishVehicle_mc121_Beta_V1.3.5_iconfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a13b21bf0f44ead6ea3dfd69f516fc44c70a256"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7920838
+project-id = 1081975

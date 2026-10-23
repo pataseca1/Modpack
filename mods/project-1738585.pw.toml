@@ -1,0 +1,13 @@
+name = "project-1738585"
+filename = "FGM.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba41ea3bb562076af09e9f347b38c1b8a4d079f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9126783
+project-id = 1738585
