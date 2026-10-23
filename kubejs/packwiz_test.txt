@@ -1,1 +1,1 @@
-text     Packwiz funciona y las actualizaciones automaticas tambien.
+Packwiz funciona y las actualizaciones automaticas tambien.

@@ -2,4 +2,4 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/packwiz_test.txt"
-hash = "f3f521874285d3435d69b4830c736f23193a875830b508080d1590f40f044317"
+hash = "3b3baa0c83454cf730a19129ad0e9974d280681de593d5a969dff3d181f55f6d"
