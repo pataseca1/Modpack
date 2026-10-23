@@ -1,1 +1,1 @@
-Prueba de sincronizacion de Packwiz.
+text     Packwiz funciona y las actualizaciones automaticas tambien.
